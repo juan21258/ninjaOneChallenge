@@ -1,0 +1,15 @@
+{
+  "name": "ninjaonechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "device_tests.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests/device_tests.js"
+  },
+  "keywords": [],
+  "author": "Juan Perez",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^2.4.0"
+  }
+}
